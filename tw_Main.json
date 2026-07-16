@@ -1,0 +1,642 @@
+{
+
+	"Identifier": "tw",
+
+	"DisplayName": "繁體中文(Traditional Chinese)",
+
+	"Texts": {
+
+		"KB_ADDONS": "插件",
+
+		"KB_CHANGELOG": "更新日誌",
+
+		"KB_DEBUG": "除錯視窗",
+
+		"KB_LOG": "日誌",
+
+		"KB_MENU": "Nexus 選單",
+
+		"KB_MUMBLEOVERLAY": "Mumble 資訊顯示",
+
+		"KB_OPTIONS": "選項",
+
+		"KB_TOGGLEHIDEUI": "切換 UI 顯示",
+
+		"((000001))": "部分插件因遊戲更新而停用。",
+
+		"((000002))": "手動重新啟用，或等待插件更新。",
+
+		"((000003))": "插件",
+
+		"((000004))": "選項",
+
+		"((000005))": "更新日誌",
+
+		"((000006))": "日誌",
+
+		"((000007))": "除錯",
+
+		"((000008))": "關於",
+
+		"((000009))": "Nexus 選單",
+
+		"((000010))": "插件要求的 API 版本不相容：%d",
+
+		"((000011))": "更新",
+
+		"((000012))": "此插件目前已鎖定，需要重新啟動遊戲才能使更新生效。",
+
+		"((000013))": "開啟自動更新",
+
+		"((000014))": "關閉自動更新",
+
+		"((000015))": "重新啟用",
+
+		"((000016))": "停用直到更新",
+
+		"((000017))": "此插件目前已鎖定，停用需於下次遊戲開啟才生效",
+
+		"((000018))": "解除安裝",
+
+		"((000019))": "此插件目前已鎖定，需要重啟遊戲才能刪除。",
+
+		"((000020))": "停用##",
+
+		"((000021))": "無法儲存插件狀態。遊戲是透過啟動參數載入插件。",
+
+		"((000022))": "停用*##",
+
+		"((000023))": "* 停用後需重新啟動遊戲才能生效。%s",
+
+		"((000024))": "載入*##",
+
+		"((000025))": "* 下次啟動遊戲時載入插件。%s",
+
+		"((000026))": "載入##",
+
+		"((000027))": "安裝中...##",
+
+		"((000028))": "安裝##",
+
+		"((000029))": "已經安裝。",
+
+		"((000030))": "GitHub##",
+
+		"((000031))": "已安裝",
+
+		"((000032))": "插件庫",
+
+		"((000033))": "未安裝任何插件。",
+
+		"((000034))": "開啟插件資料夾",
+
+		"((000035))": "檢查更新",
+
+		"((000036))": "檢查每個插件並在有新版本時進行更新。\n部分插件需要重新啟動遊戲才能套用更新，不會立即生效。",
+
+		"((000037))": "這裡沒有任何東西。",
+
+		"((000038))": "顯示已安裝插件。",
+
+		"((000039))": "這些變更將在下次啟動遊戲時生效:",
+
+		"((000040))": "近期變更:",
+
+		"((000041))": "語言",
+
+		"((000042))": "使用者介面/體驗(UI/UX)",
+
+		"((000043))": "選擇項目後關閉選單",
+
+		"((000044))": "使用 Esc 鍵關閉視窗",
+
+		"((000045))": "快捷存取",
+
+		"((000046))": "垂直布局",
+
+		"((000047))": "總是顯示",
+
+		"((000048))": "啟用此設定後，快捷存取選單也將在載入畫面和角色選擇畫面中顯示。",
+
+		"((000049))": "當 Nexus 有更新時顯示通知圖示",
+
+		"((000050))": "位置",
+
+		"((000051))": "偏移量",
+
+		"((000052))": "一般",
+
+		"((000053))": "樣式",
+
+		"((000054))": "字型大小",
+
+		"((000055))": "修改字型大小需要重新啟動遊戲才能生效。",
+
+		"((000056))": "套用 ArcDPS 樣式",
+
+		"((000057))": "這將從 ArcDPS 讀取 ImGui 樣式設定並將其套用至 Nexus。\n在遊戲執行時修改 ArcDPS 樣式不會立刻反映在 Nexus 上，因為 ArcDPS 僅在關閉遊戲時才會儲存設定。\n需要重新啟動遊戲。",
+
+		"((000058))": "儲存",
+
+		"((000059))": "復原",
+
+		"((000060))": "按鍵綁定",
+
+		"((000061))": "按鍵未被使用。",
+
+		"((000062))": "設定快捷鍵: ",
+
+		"((000063))": "您將會覆蓋 ",
+
+		"((000064))": "解除綁定",
+
+		"((000065))": "接受",
+
+		"((000066))": "取消",
+
+		"((000067))": "延伸",
+
+		"((000068))": "下方",
+
+		"((000069))": "底部",
+
+		"((000070))": "自訂",
+
+		"((000071))": "正在檢查更新...",
+
+		"((000072))": "全域縮放比例",
+
+		"((000073))": "已停用。",
+
+		"((000074))": "點擊閱讀服務條款。",
+
+		"((000075))": "ArcDPS 插件",
+
+		"((000076))": "這些是舊版 (Legacy) ArcDPS 插件，非 Nexus 直接支援。",
+
+		"((000077))": "將無法使用熱載入、自動更新以及所有其他 Nexus 功能。",
+
+		"((000078))": "正在卸載...",
+
+		"((000079))": "已完成更新。請重新啟動遊戲以使設定生效。",
+
+		"((000080))": "將在重新啟動遊戲後載入。",
+
+		"((000081))": "已完成更新。",
+
+		"((000082))": "已是最新版本。",
+
+		"((000083))": "返回遊戲",
+
+		"((000084))": "允許預發佈/測試版更新",
+
+		"((000085))": "停用預發佈/測試版更新",
+
+		"((000086))": "當不穩定插件被停用時，自動顯示插件管理視窗",
+
+		"((000087))": "所有插件皆已是最新版本!",
+
+		"((000088))": "未啟用",
+
+		"((000089))": "此為第 %d 級插件。\n點擊閱讀 Raidcore 插件政策。",
+
+		"((000090))": "此插件未歸類於 Nexus 插件庫中，可能違反遊戲服務條款。",
+
+		"((000091))": "遊戲按鍵綁定",
+
+		"((000092))": "字型",
+
+		"((000093))": "在遊玩時顯示",
+
+		"((000094))": "僅在非戰鬥狀態顯示",
+
+		"((000095))": "僅在戰鬥狀態顯示",
+
+		"((000096))": "永不顯示",
+
+		"((000097))": "顯示時機",
+
+		"((000098))": "沒有符合篩選條件的項目。",
+
+		"((000099))": "正在設定:",
+
+		"((000100))": "請先載入插件以進行按鍵與選項設定。",
+
+		"((000101))": "停用節慶裝飾",
+
+		"((000102))": "點擊右鍵以顯示更多選項。",
+
+		"((000103))": "此插件目前已停用，並將在有可用更新時自動重新啟用。",
+
+		"((000104))": "搜尋",
+
+		"((000105))": "設定",
+
+		"((000106))": "顯示已啟用",
+
+		"((000107))": "顯示已停用",
+
+		"((000108))": "顯示可下載",
+
+		"((000109))": "顯示已安裝 (ArcDPS)",
+
+		"((000110))": "顯示可下載 (ArcDPS)",
+		
+		"((000111))": "顯示 ArcDPS 快捷鍵",
+
+		"((000112))": "移動鏡頭時鎖定游標。",
+
+		"((000113))": "DPI 縮放",
+
+		"((000114))": "移動鏡頭後重設游標位置。",
+
+		"((000115))": "允許按鍵穿透至遊戲中。",
+
+		"((000116))": "您確定嗎?",
+
+		"((000117))": "解除安裝插件: ",
+
+		"((Movement))": "移動",
+
+		"((Skills))": "技能",
+
+		"((Targeting))": "目標鎖定",
+
+		"((User Interface))": "使用者介面",
+
+		"((Camera))": "鏡頭控制",
+
+		"((Screenshot))": "螢幕截圖",
+
+		"((Map))": "地圖",
+
+		"((Mounts))": "座騎",
+
+		"((Spectators))": "觀戰者",
+
+		"((Squad))": "團隊",
+
+		"((Mastery Skills))": "專精技能",
+
+		"((Miscellaneous))": "雜項",
+
+		"((Templates))": "模板",
+
+		"((MoveForward))": "前進",
+
+		"((MoveBackward))": "後退",
+
+		"((MoveLeft))": "向左平移",
+
+		"((MoveRight))": "向右平移",
+
+		"((MoveTurnLeft))": "向左轉",
+
+		"((MoveTurnRight))": "向右轉",
+
+		"((MoveDodge))": "閃避",
+
+		"((MoveAutoRun))": "自動奔跑",
+
+		"((MoveWalk))": "行走",
+
+		"((MoveJump))": "跳躍/向上游/向上飛",
+
+		"((MoveSwimDown))": "向下游/向下飛",
+
+		"((MoveAboutFace))": "向後轉",
+
+		"((SkillWeaponSwap))": "切換武器",
+
+		"((SkillWeapon1))": "武器技能 1",
+
+		"((SkillWeapon2))": "武器技能 2",
+
+		"((SkillWeapon3))": "武器技能 3",
+
+		"((SkillWeapon4))": "武器技能 4",
+
+		"((SkillWeapon5))": "武器技能 5",
+
+		"((SkillHeal))": "治療技能",
+
+		"((SkillUtility1))": "通用技能 1",
+
+		"((SkillUtility2))": "通用技能 2",
+
+		"((SkillUtility3))": "通用技能 3",
+
+		"((SkillElite))": "菁英技能",
+
+		"((SkillProfession1))": "職業技能 1",
+
+		"((SkillProfession2))": "職業技能 2",
+
+		"((SkillProfession3))": "職業技能 3",
+
+		"((SkillProfession4))": "職業技能 4",
+
+		"((SkillProfession5))": "職業技能 5",
+
+		"((SkillProfession6))": "職業技能 6",
+
+		"((SkillProfession7))": "職業技能 7",
+
+		"((SkillSpecialAction))": "特殊行動",
+
+		"((TargetAlert))": "提示目標狀態",
+
+		"((TargetCall))": "標記目標",
+
+		"((TargetTake))": "選擇標記狀態",
+
+		"((TargetCallLocal))": "設置個人目標",
+
+		"((TargetTakeLocal))": "選擇個人目標",
+
+		"((TargetEnemyNearest))": "最近敵人",
+
+		"((TargetEnemyNext))": "下個敵人",
+
+		"((TargetEnemyPrev))": "上個敵人",
+
+		"((TargetAllyNearest))": "最近盟友",
+
+		"((TargetAllyNext))": "下個盟友",
+
+		"((TargetAllyPrev))": "上個盟友",
+
+		"((TargetLock))": "鎖定自動目標",
+
+		"((TargetSnapGroundTarget))": "目標定點指向",
+
+		"((TargetSnapGroundTargetToggle))": "切換目標定點指向",
+
+		"((TargetAutoTargetingDisable))": "禁用自動選擇目標",
+
+		"((TargetAutoTargetingToggle))": "切換自動選擇目標",
+
+		"((TargetAllyTargetingMode))": "盟友瞄準模式",
+
+		"((TargetAllyTargetingModeToggle))": "切換盟友瞄準模式",
+
+		"((UiCommerce))": "黑獅交易商會",
+
+		"((UiContacts))": "聯繫人",
+
+		"((UiGuild))": "公會",
+
+		"((UiHero))": "英雄",
+
+		"((UiInventory))": "物品欄",
+
+		"((UiKennel))": "寵物",
+
+		"((UiLogout))": "登出",
+
+		"((UiMail))": "郵件",
+
+		"((UiOptions))": "選項",
+
+		"((UiParty))": "隊伍",
+
+		"((UiPvp))": "PvP面板",
+
+		"((UiPvpBuild))": "PvP人物配置",
+
+		"((UiScoreboard))": "得分榜",
+
+		"((UiSeasonalObjectivesShop))": "巫師寶庫",
+
+		"((UiInformation))": "信息",
+
+		"((UiChatToggle))": "顯示/隱藏聊天",
+
+		"((UiChatCommand))": "聊天命令",
+
+		"((UiChatFocus))": "聊天信息",
+
+		"((UiChatReply))": "聊天回復",
+
+		"((UiToggle))": "顯示/隱藏介面",
+
+		"((UiSquadBroadcastChatToggle))": "顯示/隱藏團隊廣播聊天",
+
+		"((UiSquadBroadcastChatCommand))": "團隊廣播聊天指令",
+
+		"((UiSquadBroadcastChatFocus))": "團隊廣播消息",
+
+		"((CameraFree))": "自由視角",
+
+		"((CameraZoomIn))": "放大",
+
+		"((CameraZoomOut))": "縮小",
+
+		"((CameraReverse))": "向後看",
+
+		"((CameraActionMode))": "切換動作視角",
+
+		"((CameraActionModeDisable))": "禁用動作視角",
+
+		"((ScreenshotNormal))": "普通",
+
+		"((ScreenshotStereoscopic))": "立體",
+
+		"((MapToggle))": "打開/關閉",
+
+		"((MapFocusPlayer))": "重置",
+
+		"((MapFloorDown))": "下一層",
+
+		"((MapFloorUp))": "上一層",
+
+		"((MapZoomIn))": "放大",
+
+		"((MapZoomOut))": "縮小",
+
+		"((SpumoniToggle))": "騎乘/跳下",
+
+		"((SpumoniMovement))": "騎乘能力 1",
+
+		"((SpumoniSecondaryMovement))": "騎乘能力 2",
+
+		"((SpumoniMAM01))": "肉食鳥騎乘/跳下",
+
+		"((SpumoniMAM02))": "彈跳兔騎乘/跳下",
+
+		"((SpumoniMAM03))": "飛魚騎乘/跳下",
+
+		"((SpumoniMAM04))": "胡狼騎乘/跳下",
+
+		"((SpumoniMAM05))": "獅鷲騎乘/跳下",
+
+		"((SpumoniMAM06))": "翻滾甲蟲騎乘/跳下",
+
+		"((SpumoniMAM07))": "戰爪騎乘/跳下",
+
+		"((SpumoniMAM08))": "騎乘/離開飛天鱗龍",
+
+		"((SpumoniMAM09))": "騎乘/離開攻城烏龜",
+
+		"((SpectatorNearestFixed))": "固定視角",
+
+		"((SpectatorNearestPlayer))": "跟隨視角",
+
+		"((SpectatorPlayerRed1))": "紅隊玩家1",
+
+		"((SpectatorPlayerRed2))": "紅隊玩家2",
+
+		"((SpectatorPlayerRed3))": "紅隊玩家3",
+
+		"((SpectatorPlayerRed4))": "紅隊玩家4",
+
+		"((SpectatorPlayerRed5))": "紅隊玩家5",
+
+		"((SpectatorPlayerBlue1))": "藍隊玩家1",
+
+		"((SpectatorPlayerBlue2))": "藍隊玩家2",
+
+		"((SpectatorPlayerBlue3))": "藍隊玩家3",
+
+		"((SpectatorPlayerBlue4))": "藍隊玩家4",
+
+		"((SpectatorPlayerBlue5))": "藍隊玩家5",
+
+		"((SpectatorFreeCamera))": "自由視角",
+
+		"((SpectatorFreeCameraMode))": "加速鏡頭",
+
+		"((SpectatorFreeMoveForward))": "前移鏡頭",
+
+		"((SpectatorFreeMoveBackward))": "後移鏡頭",
+
+		"((SpectatorFreeMoveLeft))": "左移鏡頭",
+
+		"((SpectatorFreeMoveRight))": "右移鏡頭",
+
+		"((SpectatorFreeMoveUp))": "上移鏡頭",
+
+		"((SpectatorFreeMoveDown))": "下移鏡頭",
+
+		"((SquadMarkerPlaceWorld1))": "箭頭形",
+
+		"((SquadMarkerPlaceWorld2))": "圓形",
+
+		"((SquadMarkerPlaceWorld3))": "心形",
+
+		"((SquadMarkerPlaceWorld4))": "方形",
+
+		"((SquadMarkerPlaceWorld5))": "星形",
+
+		"((SquadMarkerPlaceWorld6))": "螺旋形",
+
+		"((SquadMarkerPlaceWorld7))": "三角形",
+
+		"((SquadMarkerPlaceWorld8))": "X形",
+
+		"((SquadMarkerClearAllWorld))": "清除所有地點標記",
+
+		"((SquadMarkerSetAgent1))": "箭頭形",
+
+		"((SquadMarkerSetAgent2))": "圓形",
+
+		"((SquadMarkerSetAgent3))": "心形",
+
+		"((SquadMarkerSetAgent4))": "方形",
+
+		"((SquadMarkerSetAgent5))": "星形",
+
+		"((SquadMarkerSetAgent6))": "螺旋形",
+
+		"((SquadMarkerSetAgent7))": "三角形",
+
+		"((SquadMarkerSetAgent8))": "X形",
+
+		"((SquadMarkerClearAllAgent))": "清除所有目標標記",
+
+		"((MasteryAccess))": "啟動的專精技能",
+
+		"((MasteryAccess01))": "開始釣魚",
+
+		"((MasteryAccess02))": "召喚小船",
+
+		"((MasteryAccess03))": "設置翠玉機器人傳送點",
+
+		"((MasteryAccess04))": "掃描裂隙",
+
+		"((MasteryAccess05))": "飛天鱗龍之躍",
+
+		"((MasteryAccess06))": "咒術門道",
+
+		"((MiscAoELoot))": "範圍拾取",
+
+		"((MiscInteract))": "互動",
+
+		"((MiscShowEnemies))": "顯示敵方名字",
+
+		"((MiscShowAllies))": "顯示盟友名字",
+
+		"((MiscCombatStance))": "取出/收起武器",
+
+		"((MiscToggleLanguage))": "切換語言",
+
+		"((MiscTogglePetCombat))": "切換遊俠寵物行為",
+
+		"((MiscToggleFullScreen))": "切換至全螢幕",
+
+		"((MiscToggleDecorationMode))": "切換裝飾模式",
+
+		"((ToyUseDefault))": "裝備/卸除新奇玩具",
+
+		"((ToyUseSlot1))": "啟用的椅子",
+
+		"((ToyUseSlot2))": "啟用的樂器",
+
+		"((ToyUseSlot3))": "啟用的物品",
+
+		"((ToyUseSlot4))": "啟用的玩具",
+
+		"((ToyUseSlot5))": "啟用的合劑",
+
+		"((Loadout1))": "配置模板 1",
+
+		"((Loadout2))": "配置模板 2",
+
+		"((Loadout3))": "配置模板 3",
+
+		"((Loadout4))": "配置模板 4",
+
+		"((Loadout5))": "配置模板 5",
+
+		"((Loadout6))": "配置模板 6",
+
+		"((Loadout7))": "配置模板 7",
+
+		"((Loadout8))": "配置模板 8",
+
+		"((Loadout9))": "配置模板 9",
+
+		"((GearLoadout1))": "裝備模板 1",
+
+		"((GearLoadout2))": "裝備模板 2",
+
+		"((GearLoadout3))": "裝備模板 3",
+
+		"((GearLoadout4))": "裝備模板 4",
+
+		"((GearLoadout5))": "裝備模板 5",
+
+		"((GearLoadout6))": "裝備模板 6",
+
+		"((GearLoadout7))": "裝備模板 7",
+
+		"((GearLoadout8))": "裝備模板 8",
+
+		"((GearLoadout9))": "裝備模板 9",
+		
+		"((Experimental: Clicking requires modifiers))": "實驗性功能: 需搭配組合鍵才能點擊"
+
+	}
+
+}
+
